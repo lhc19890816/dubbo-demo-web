@@ -3,7 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.od.dubbotest</groupId>
+<<<<<<< HEAD
   <artifactId>dubbo-demo-web</artifactId>
+=======
+  <artifactId>dubbo-demo-service</artifactId>
+>>>>>>> b6f2a70b664b17c6694ff4258ee1634d11e3a477
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
@@ -17,7 +21,12 @@
 
   <modules>
     <module>dubbo-api</module>
+<<<<<<< HEAD
 	<module>dubbo-client</module>
   </modules>
 	
+=======
+	<module>dubbo-server</module>
+  </modules>
+>>>>>>> b6f2a70b664b17c6694ff4258ee1634d11e3a477
 </project>

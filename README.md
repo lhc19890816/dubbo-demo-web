@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # dubbo-demo-web
+=======
+# dubbo-demo-service
+>>>>>>> b6f2a70b664b17c6694ff4258ee1634d11e3a477
 
 #### Description
 {**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
